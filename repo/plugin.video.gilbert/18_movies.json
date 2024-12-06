@@ -1,0 +1,394 @@
+{
+    "page": 2,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/7ks7A3mAO7twDOvBVE4cR8LaIM8.jpg",
+            "genre_ids": [
+                16,
+                28,
+                18
+            ],
+            "id": 1104844,
+            "original_language": "ja",
+            "original_title": "\u5287\u5834\u7248\u30d6\u30eb\u30fc\u30ed\u30c3\u30af -EPISODE \u51ea-",
+            "overview": "\"That's a hassle.\" That was second-year high schooler Nagi Seishirou's favorite phrase as he lived his dull life. Until Mikage Reo, a classmate who dreamed of winning the World Cup, discovered Nagi's hidden skill, inspiring him to play soccer and share his outstanding talent. One day, Nagi Seishiro receives an invitation to the mysterious Blue Lock Project. What awaits him there is an encounter with the finest strikers assembled from across the country. Nagi's dream of becoming the best, alongside Mikage Reo, will take this prodigy to a world he's never known.",
+            "popularity": 243.441,
+            "poster_path": "/ae434jM5NG2kKX1rRkG5giMhpPI.jpg",
+            "release_date": "2024-04-19",
+            "title": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "video": false,
+            "vote_average": 7.359,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nA0RDmSDqpN5tLun4sCqdPekObD.jpg",
+            "genre_ids": [
+                878,
+                18
+            ],
+            "id": 592831,
+            "original_language": "en",
+            "original_title": "Megalopolis",
+            "overview": "Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, idealistic future, while his opposition, Mayor Franklyn Cicero, remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare. Torn between them is socialite Julia Cicero, the mayor\u2019s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+            "popularity": 236.34,
+            "poster_path": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+            "release_date": "2024-09-25",
+            "title": "Megalopolis",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 480
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z7eV3zAAfQ4XVyKd61ymywZaSB3.jpg",
+            "genre_ids": [
+                27,
+                53,
+                18
+            ],
+            "id": 1288998,
+            "original_language": "es",
+            "original_title": "1978",
+            "overview": "During the World Cup final between Argentina and Holland, in times of military dictatorship, a group of torturers kidnap a group of young people. What begins as an inhumane interrogation turns into hell: the wrong group has been kidnapped.",
+            "popularity": 218.849,
+            "poster_path": "/zn7oyy7KTlC01XD3pUn82V9Od0P.jpg",
+            "release_date": "2024-10-16",
+            "title": "1978",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zAqBIeO71BFL7bAtP5TFzVjVamy.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 1079091,
+            "original_language": "en",
+            "original_title": "It Ends with Us",
+            "overview": "When a woman's first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended, and she realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+            "popularity": 213.248,
+            "poster_path": "/cSMdFWmajaX4oUMLx7HEDI84GkP.jpg",
+            "release_date": "2024-08-07",
+            "title": "It Ends with Us",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1087
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rXYejcyn762o3cjp9OYfyVR3QpY.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 940139,
+            "original_language": "en",
+            "original_title": "Here",
+            "overview": "An odyssey through time and memory, centered around a place in New England where\u2014from wilderness, and then, later, from a home\u2014love, loss, struggle, hope and legacy play out between couples and families over generations.",
+            "popularity": 203.606,
+            "poster_path": "/79euHUJJtfgeGU63ef38KtNjXEn.jpg",
+            "release_date": "2024-10-30",
+            "title": "Here",
+            "video": false,
+            "vote_average": 6.515,
+            "vote_count": 66
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pVUwUheFj5tLfzZg6EiFMasnMME.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 1156593,
+            "original_language": "es",
+            "original_title": "Culpa tuya",
+            "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+            "popularity": 193.176,
+            "poster_path": "/6kYDG8Imfhph2duBYZeYksHgx7L.jpg",
+            "release_date": "2024-12-26",
+            "title": "Culpa Tuya",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mwdt9HsCddye6xzNvccPenaenjW.jpg",
+            "genre_ids": [
+                16,
+                18,
+                35,
+                878
+            ],
+            "id": 838240,
+            "original_language": "es",
+            "original_title": "Robot Dreams",
+            "overview": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
+            "popularity": 190.045,
+            "poster_path": "/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg",
+            "release_date": "2023-12-06",
+            "title": "Robot Dreams",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 551
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l8OyAXEp5FKZWmDhqJMbiwAEvz.jpg",
+            "genre_ids": [
+                27,
+                18
+            ],
+            "id": 814889,
+            "original_language": "en",
+            "original_title": "Never Let Go",
+            "overview": "As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family\u2019s protective bond.",
+            "popularity": 189.756,
+            "poster_path": "/3EpZ2ksjijmdr8BhISP03PYzNFW.jpg",
+            "release_date": "2024-09-18",
+            "title": "Never Let Go",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                18
+            ],
+            "id": 315635,
+            "original_language": "en",
+            "original_title": "Spider-Man: Homecoming",
+            "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+            "popularity": 189.727,
+            "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+            "release_date": "2017-07-05",
+            "title": "Spider-Man: Homecoming",
+            "video": false,
+            "vote_average": 7.334,
+            "vote_count": 21757
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 829557,
+            "original_language": "pl",
+            "original_title": "365 dni: Ten dzie\u0144",
+            "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo\u2019s family ties and a mysterious man who enters Laura\u2019s life to win her heart and trust, at any cost.",
+            "popularity": 187.131,
+            "poster_path": "/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
+            "release_date": "2022-04-26",
+            "title": "365 Days: This Day",
+            "video": false,
+            "vote_average": 5.881,
+            "vote_count": 1538
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+            "genre_ids": [
+                12,
+                18,
+                878
+            ],
+            "id": 157336,
+            "original_language": "en",
+            "original_title": "Interstellar",
+            "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+            "popularity": 187.051,
+            "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "release_date": "2014-11-05",
+            "title": "Interstellar",
+            "video": false,
+            "vote_average": 8.443,
+            "vote_count": 35712
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 278,
+            "original_language": "en",
+            "original_title": "The Shawshank Redemption",
+            "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "popularity": 184.065,
+            "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "release_date": "1994-09-23",
+            "title": "The Shawshank Redemption",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 27207
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iPHsjvbFyGbeCEDC7u8Ib8U1zS6.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 947891,
+            "original_language": "en",
+            "original_title": "My Old Ass",
+            "overview": "An 18th birthday mushroom trip brings free-spirited Elliott face-to-face with her wisecracking 39-year-old self. But when Elliott\u2019s \"old ass\" starts handing out warnings about what her younger self should and shouldn't do, Elliott realizes she has to rethink everything about family, love, and what's becoming a transformative summer.",
+            "popularity": 177.227,
+            "poster_path": "/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg",
+            "release_date": "2024-09-13",
+            "title": "My Old Ass",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/en3GU5uGkKaYmSyetHV4csHHiH3.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 929590,
+            "original_language": "en",
+            "original_title": "Civil War",
+            "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+            "popularity": 175.122,
+            "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+            "release_date": "2024-04-10",
+            "title": "Civil War",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 2840
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bpePOhe9aLg8v7eiTN5sHD02JES.jpg",
+            "genre_ids": [
+                18,
+                10770
+            ],
+            "id": 45890,
+            "original_language": "it",
+            "original_title": "Moana",
+            "overview": "The life story of Italian iconic pornographic actress Moana Pozzi. The actress Ilona Staller sued the production of the film for the unauthorized use of the character \"Cicciolina\", of which she owned the rights.",
+            "popularity": 169.899,
+            "poster_path": "/nEDFaNVqmLl2UeUYvvkKDSge5Ed.jpg",
+            "release_date": "2009-11-01",
+            "title": "Moana",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4eMqcuVITc6iY25rRApqRFGr5VP.jpg",
+            "genre_ids": [
+                10752,
+                18,
+                36
+            ],
+            "id": 896151,
+            "original_language": "en",
+            "original_title": "Blitz",
+            "overview": "In World War II London, nine-year-old George is evacuated to the countryside by his mother, Rita, to escape the bombings. Defiant and determined to return to his family, George embarks on an epic, perilous journey back home as Rita searches for him.",
+            "popularity": 169.193,
+            "poster_path": "/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
+            "release_date": "2024-11-01",
+            "title": "Blitz",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 95
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5AsIFZ2AJC7JcGpq40aRPuRuaRc.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1241752,
+            "original_language": "tl",
+            "original_title": "Rita",
+            "overview": "Rita, who finds herself alone when husband Ariel works abroad. They both find solace and sexual satisfaction in other people. When Ariel comes back, they both act like nothing happened. But will this keep their marriage from falling apart?",
+            "popularity": 168.316,
+            "poster_path": "/pXENxAzOBrTSDJGxDcUnlNTNmWr.jpg",
+            "release_date": "2024-03-22",
+            "title": "Rita",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1Lxd3hxHAqtgK0jPqd3xqq6dzuA.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1297185,
+            "original_language": "es",
+            "original_title": "Linda",
+            "overview": "Self-assured, mysterious, and captivating Linda agrees to work at an affluent home in Buenos Aires. Her charm sparks strong sexual attraction among all members of the family, exposing how fragile their externally happy veneer really is.",
+            "popularity": 166.56,
+            "poster_path": "/2I2ot4BlB4DdUVf82u5NqJzwLyi.jpg",
+            "release_date": "2024-09-19",
+            "title": "Linda",
+            "video": false,
+            "vote_average": 7.571,
+            "vote_count": 28
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 238,
+            "original_language": "en",
+            "original_title": "The Godfather",
+            "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+            "popularity": 158.466,
+            "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+            "release_date": "1972-03-14",
+            "title": "The Godfather",
+            "video": false,
+            "vote_average": 8.689,
+            "vote_count": 20668
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/64tinBsds1nVp4wOCgYhMbSgsRW.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 1075676,
+            "original_language": "ko",
+            "original_title": "\uc804,\ub780",
+            "overview": "In the Joseon Dynasty, two friends who grew up together \u2014 one the master and one the servant \u2014 reunite post-war as enemies on opposing sides.",
+            "popularity": 156.101,
+            "poster_path": "/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg",
+            "release_date": "2024-10-02",
+            "title": "Uprising",
+            "video": false,
+            "vote_average": 7.134,
+            "vote_count": 108
+        }
+    ],
+    "total_pages": 11811,
+    "total_results": 236212
+}
