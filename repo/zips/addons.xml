@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.video.gilbert" version="3.0.1" name="GILBERT" provider-name="Roman_V_M">
+<addons><addon id="4132" name="Gilberts Repo" version="1" provider-name="Interdatum Systems">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Himtome1/gilbert/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Himtome1/gilbert/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Himtome1/gilbert/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Gibert's secret repo</summary>
+        <description>better give him some temptations</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon><addon id="plugin.video.gilbert" version="3.0.1" name="GILBERT" provider-name="Roman_V_M">
 <requires>
   <import addon="xbmc.python" version="3.0.1" />
 </requires>
