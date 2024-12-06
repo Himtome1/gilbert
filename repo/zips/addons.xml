@@ -37,4 +37,22 @@
   </assets>
   <news>Updated with latest artwork metadata</news>
 </extension>
+</addon><addon id="repo.gilbert" name="Gilberts Repo" version="1" provider-name="Interdatum Systems">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Himtome1/gilbert/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Himtome1/gilbert/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Himtome1/gilbert/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Gibert's secret repo</summary>
+        <description>better give him some temptations</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon></addons>
