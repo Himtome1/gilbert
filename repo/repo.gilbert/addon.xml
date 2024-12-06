@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="4132" name="Gilberts Repo" version="1" provider-name="Interdatum Systems">
+<addon id="repo.gilbert" name="Gilberts Repo" version="1" provider-name="Interdatum Systems">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Himtome1/gilbert/master/repo/zips/addons.xml</info>
